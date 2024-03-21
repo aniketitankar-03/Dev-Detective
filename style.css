@@ -19,7 +19,7 @@
 }
 
 body{
-    height: 100vh;
+    /* height: 100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -315,7 +315,7 @@ input::placeholder{
   @media screen and (max-width: 600px){
     .container{
         width: 327px;
-        margin-top: 1rem;
+        /* margin-top: 1rem; */
     }
 
     .title , .mode-text{
